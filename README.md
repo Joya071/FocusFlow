@@ -109,7 +109,7 @@ You can now:
 
 - Save this file as `README.md` in your `FocusFlow` project directory.
 - Upload your Flutter project to GitHub following the same method I shared earlier.
-- Add screenshots later in the `📸 Screenshots` section if you want a better visual impression.
+
 
 Let me know if you'd like me to generate a matching `LICENSE` file (MIT) or `.gitignore` for Flutter!
 
