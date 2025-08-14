@@ -1,4 +1,4 @@
-# ✅ FocusFlow – To-Do List App
+# ✅ FocusFlow
 
 A simple yet powerful task management app built with **Flutter** and **Firebase**, designed to help users track their daily to-dos with real-time updates, authentication, and smart task filtering.
 
